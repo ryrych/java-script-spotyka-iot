@@ -30,7 +30,3 @@ const board = new Five.Board({
 ## Przygotowanie Arduino Uno + Johnny Five
 
 Przeczytaj: <https://johnny-five.io/platform-support/#arduino-uno> z uwzględnieniem <https://github.com/rwaldron/johnny-five/wiki/Getting-Started#trouble-shooting>
-
-## Jak uruchomić przykłady
-
-Przyklady znajdują się w repozytorium:
