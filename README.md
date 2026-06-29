@@ -7,6 +7,7 @@ Treść warsztatów o Johny-Five czyli jak wykorzystać JavaScript do obsługi m
 ## Setting up
 
 ```sh
+nvm install 18
 yarn
 yarn start
 ```
